@@ -1,1 +1,20 @@
-"# interactive-number-list-"  init
+# Interactive Number List 📋🔢
+
+Este repositório contém um programa em Python que permite ao usuário criar uma lista interativa de números positivos.  
+
+## 🛠️ Funcionamento:
+
+1. O programa solicita ao usuário números, adicionando-os a uma lista.  
+2. O processo continua até que o usuário insira um número negativo.  
+3. Ao receber um número negativo, o programa exibe uma mensagem e encerra a execução sem adicioná-lo à lista.  
+4. A lista atualizada é exibida após cada número inserido.  
+
+## 🌟 Exemplo de Execução:
+
+```plaintext
+Digite um número: 5
+[5]
+Digite um número: 10
+[5, 10]
+Digite um número: -1
+O número é negativo
